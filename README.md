@@ -101,7 +101,8 @@ export default async (req: Request, res: Response, next: NextFunction) => {
 };
 ```
 
-# 測試環境 WIP
+# 測試環境 [Dcard-backend-intern-codelab](https://github.com/sddivid/Dcard-backend-intern-codelab)
+ [Backend](https://github.com/CS6/D4-homework-Backend)
 
 ![services](https://github.com/sddivid/Dcard-backend-intern-RateLimit/blob/ff15f07112656e555ad041e8cdcc8ea3831aa281/%E6%88%AA%E5%9C%96%202021-04-05%20%E4%B8%8B%E5%8D%8811.09.03.png)
 
