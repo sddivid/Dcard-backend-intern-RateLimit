@@ -1,0 +1,3 @@
+[submodule "Dcard-backend-intern-codelab"]
+	path = Dcard-backend-intern-codelab
+	url = git@github.com:sddivid/Dcard-backend-intern-codelab.git
